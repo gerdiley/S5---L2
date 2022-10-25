@@ -1,0 +1,39 @@
+html{
+    text-align: center;
+    background: linear-gradient(to bottom right, rgba(79, 51, 176, 0.6), rgba(210, 53, 165));
+    color: antiquewhite;
+    height: 200vh;
+}
+
+input,label{
+    display: block;
+    margin: 0 auto;
+    line-height: 2em;
+    padding: 5px;
+}
+#btn{
+    padding: 10px;
+    background-color: antiquewhite;
+    box-shadow: 2px 3px 10px;
+    cursor: pointer;
+    border: 0;
+    margin-top: 10px;
+
+}
+
+#budget{
+    color: antiquewhite;
+    line-height: 2em;
+    font-weight: bold;
+}
+
+#lista{
+    text-decoration: none;
+    list-style-type: none;
+    line-height: 2em;
+}
+
+span{
+    color: rgb(31, 31, 102);
+    font-weight: bold;
+}
